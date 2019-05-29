@@ -1,0 +1,2 @@
+C:\RODRIGO\PROJETOS\FRAMEWORKS\MAINFRAME\SolutionDevCenter\SolutionDevCenter.MainFrame\obj\Debug\SolutionDevCenter.MainFrame.csprojAssemblyReference.cache
+C:\RODRIGO\PROJETOS\FRAMEWORKS\MAINFRAME\SolutionDevCenter\SolutionDevCenter.MainFrame\obj\Debug\SolutionDevCenter.MainFrame.csproj.CoreCompileInputs.cache
